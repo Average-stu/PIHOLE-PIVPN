@@ -132,16 +132,13 @@ From a developer side :- The web operators should include TLS and HTTPS protocol
 
 - Integrate all into a Package 
 
-License
-----
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 MIT
 
 ### Contributor
+- [Aman Kumar](https://github.com/Average-stu)
 - [Mayank kumar](https://github.com/Mk-ism)
 - [Meenakshi Kharel](https://github.com/MEraKi4)
-- [Aman Kumar](https://github.com/Average-stu)
 - [Arathi S](https://github.com/Arathi-S124)
 - [Paritosh Kumar Yadav](https://github.com)
 - [Kinchit Saxena](https://github.com)
