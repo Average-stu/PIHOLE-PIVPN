@@ -132,9 +132,6 @@ From a developer side :- The web operators should include TLS and HTTPS protocol
 
 - Integrate all into a Package 
 
-
-MIT
-
 ### Contributor
 - [Aman Kumar](https://github.com/Average-stu)
 - [Mayank kumar](https://github.com/Mk-ism)
