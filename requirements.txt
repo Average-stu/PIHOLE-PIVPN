@@ -1,0 +1,4 @@
+mitmproxy==5.1.1
+netfilterqueue ==0.8.1
+scapy==2.4.3
+sslstrip==0.9.2
