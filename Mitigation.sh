@@ -24,13 +24,15 @@ printf "\n"
 read -p $'\e[1;92m[*] Choose an option:\e[0m\e[1;77m ' option
 
 if [[ $option == 1 || $option == 01 ]]; then
-curl -sSL https://install.pi-hole.net | bash
+curl -sSL https://install.pi-hole.net | bash & echo "Starting ......."
+sleep 300
 clear
 banner
 menu
 
 elif [[ $option == 2 || $option == 02 ]]; then
-curl -L https://install.pivpn.io | bash
+curl -L https://install.pivpn.io | bash  & echo "Starting ..........."
+sleep 300
 clear
 banner
 menu
